@@ -1,0 +1,5 @@
+{
+  "name": "NovaChat",
+  "description": "A powerful, modern AI chatbot powered by Gemini 3.1 Pro with streaming responses and markdown support.",
+  "requestFramePermissions": []
+}
